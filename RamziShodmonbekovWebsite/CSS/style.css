@@ -1,0 +1,61 @@
+.index-welcome{
+    text-align: center;
+}
+
+nav {
+    margin-bottom: 5vw;
+}
+
+footer {
+    text-align: center;
+    margin-top: 5vw;
+}
+
+footer a{
+    text-decoration: none;
+    color: rgb(19, 31, 167);
+    font-size: 1.2rem;
+    margin-right: 1vw;
+}
+
+form {
+    margin:0 3vw;
+}
+
+.navbar-brand {
+    border-right: 1px solid black;
+    padding-right: 1vw;
+}
+
+.blogs-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.blogs-div-row-first {
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    margin: 2vw;
+}
+
+.portfolio-div {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+table {
+    margin-top: 5vw;
+}
+
+.about-pics-div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-pics-div img {
+    width: 40%;
+}
